@@ -14,19 +14,19 @@ author_profile: true
 
 ## Honors and Awards
 
-- **Outstanding Graduates**
+- **Outstanding Graduates**  
 Sun Yat-sen University, 2023
-- **Huawei Scholarship**
+- **Huawei Scholarship**  
 Sun Yat-sen University, 2022
-- **Outstanding Graduates**
+- **Outstanding Graduates**  
 Sun Yat-sen University, 2020
-- **The 10th Li Xuerou Foudation Scholarship**
+- **The 10th Li Xuerou Foudation Scholarship**  
 Sun Yat-sen University, 2019
-- **China National Scholarship**
+- **China National Scholarship**  
 Ministry of Education of the People’s Republic of China, AY2018-2019, AY2017-2018
-- **National Second Prize (Innovation Track), China Undergraduate Life Sciences Contest (Innovation and Entrepreneurship Track)**
+- **National Second Prize (Innovation Track), China Undergraduate Life Sciences Contest (Innovation and Entrepreneurship Track)**  
 Teaching Steering Committee for Biotechnology and Bioengineering Majors, Ministry of Education (China), 2019
-- **National Second Prize, China Undergraduate Mathematical Contest in Modeling**
+- **National Second Prize, China Undergraduate Mathematical Contest in Modeling**  
 China Society for Industrial and Applied Mathematics (CSIAM), 2018
 
 

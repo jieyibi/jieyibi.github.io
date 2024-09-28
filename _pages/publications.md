@@ -15,7 +15,7 @@ author_profile: true
 
 >
 
-- **Learning to Handle Complex Constraints for Vehicle Routing Problems**,
+- **Learning to Handle Complex Constraints for Vehicle Routing Problems**,  
 <u>Jieyi Bi</u>, Yining Ma, Jianan Zhou, Wen Song, Zhiguang Cao, Yaoxin Wu, Jie Zhang.  
 *Advances in Neural Information Processing Systems* (**NeurIPS**), 2024.\
 [![PDF](https://img.shields.io/badge/Download-Null-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Null-blue.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Poster](https://img.shields.io/badge/NeurIPS-Poster-yellow.svg)](https://nips.cc/virtual/2024/poster/95638)

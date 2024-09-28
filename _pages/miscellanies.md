@@ -20,7 +20,7 @@ Sun Yat-sen University, 2023
 Sun Yat-sen University, 2022
 - **Outstanding Graduates**  
 Sun Yat-sen University, 2020
-- **The 10th Li Xuerou Foudation Scholarship**  
+- **The 10th Li Xuerou Foundation Scholarship**  
 Sun Yat-sen University, 2019
 - **China National Scholarship**  
 Ministry of Education of the People’s Republic of China, AY2018-2019, AY2017-2018
@@ -33,9 +33,18 @@ China Society for Industrial and Applied Mathematics (CSIAM), 2018
 ## Teaching (TA)
 
 AY2021-2022 Sem2:
-
 * Artificial Intelligence
-
+  
 AY2021-2022 Sem1:
-
 * Artificial Intelligence
+
+## Experience
+
+- Research Associate, Nanyang Technological University, Singapore, Aug 2023 - Present
+  
+  Under Projects:
+  - Prescriptive Analytics with DRL-Enabled Model (collaborating with [D-SIMLAB](https://d-simlab.com/) and [Micron](https://www.micron.com/)), AISG 100E4R, May 2024 - Present
+  - Research and Application of Deep Reinforcement Learning in Retail Logistics Supply Chain Optimization (collaborating with [SenseTime](https://www.sensetime.com/en)), S-Lab, Aug 2023 - May 2024
+
+  
+    

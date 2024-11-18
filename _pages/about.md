@@ -23,5 +23,8 @@ News
 - [2022.10] Awarded Huawei Scholarship!  
 - [2022.09] My first-authored paper "_Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation_" was accepted by NeurIPS 2022!  
 - [2020.09] Start my M.Eng. journey at SYSU, majoring in Software Engineering!  
-- [2020.06] Graduate as Outstanding Graduate from SYSU, awarded the China National Scholarship twice!  
+- [2020.06] Graduate as Outstanding Graduate from SYSU, awarded the China National Scholarship twice!
 
+<br/>
+<br>
+<a href="https://info.flagcounter.com/9Fz0"><img src="https://s11.flagcounter.com/count2/9Fz0/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>

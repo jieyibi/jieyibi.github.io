@@ -16,7 +16,7 @@ My research interests focus on the intersection of Machine Learning (ML) and Opt
 
 News
 ======
-- [2024.10] I am selected as NeurIPS 2024 Top Reviewer (10%) for both the main and DB track!  
+- [2024.10] I am selected as NeurIPS 2024 Top Reviewer (10%) for both main and DB track!  
 - [2024.09] My first-authored paper "_Learning to Handle Complex Constraints for Vehicle Routing Problems_" was accepted by NeurIPS 2024!  
 - [2024.01] Start my Ph.D. journey at CCDS, NTU!  
 - [2023.06] Graduate as Outstanding Graduate from SYSU, awarded the University First-Class Scholarship twice!  

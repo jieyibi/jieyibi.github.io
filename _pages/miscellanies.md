@@ -13,7 +13,10 @@ author_profile: true
 
 
 ## Honors and Awards
-
+- **NeurIPS 2024 Scholar Award**  
+Conference on Neural Information Processing Systems (NeurIPS), 2024
+- **NeurIPS 2024 Top Reviewer Award (Top 10%) (Both main and DB track!)**  
+Conference on Neural Information Processing Systems (NeurIPS), 2024
 - **Outstanding Graduates**  
 Sun Yat-sen University, 2023
 - **Huawei Scholarship**  

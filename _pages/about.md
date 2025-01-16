@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a first-year Ph.D. student in the College of Computing and Data Science ([CCDS](https://www.ntu.edu.sg/computing)) at Nanyang Technological University ([NTU](https://www.ntu.edu.sg/)), supervised by [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/) and [Prof. Zhiguang Cao](https://zhiguangcaosg.github.io/). Before that, I received my M.Eng. degree from Sun Yat-Sen University ([SYSU](https://www.sysu.edu.cn/sysuen/)) in 2023, advised by [Prof. Jiahai Wang](https://www.semanticscholar.org/author/Jiahai-Wang/2815388), and received my B.Sc. degree from SYSU in 2020.
+Hi! I am a second-year Ph.D. student in the College of Computing and Data Science ([CCDS](https://www.ntu.edu.sg/computing)) at Nanyang Technological University ([NTU](https://www.ntu.edu.sg/)), supervised by [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/) and [Prof. Zhiguang Cao](https://zhiguangcaosg.github.io/). Before that, I received my M.Eng. degree from Sun Yat-Sen University ([SYSU](https://www.sysu.edu.cn/sysuen/)) in 2023, advised by [Prof. Jiahai Wang](https://www.semanticscholar.org/author/Jiahai-Wang/2815388), and received my B.Sc. degree from SYSU in 2020.
 
 
 Research

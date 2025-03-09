@@ -7,7 +7,7 @@ author_profile: true
 
 ## Academic Service
 
-* Conference Reviewer: NeurIPS'24 (main and DB track); ICML'24-25; ICLR'25; AAAI'25; AISTATS’25; IJCNN'25; IJCAI'25; RLC'25;
+* Conference Reviewer: NeurIPS'24; ICML'24-25; ICLR'25; AAAI'25; AISTATS’25; IJCNN'25; IJCAI'25; RLC'25; KDD'25;
 * Journal Reviewer: Transactions on Machine Learning Research (TMLR); Neural Networks; Complex System Modeling and Simulation; Annals of Mathematics and Artificial Intelligence;
 * Student Volunteer: RecSys'23 @ Singapore;
 

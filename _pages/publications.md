@@ -13,7 +13,12 @@ author_profile: true
 
 ## Published
 
->
+- **RL4CO: an Extensive Reinforcement Learning for Combinatorial Optimization Benchmark** \
+   Federico Berto, Chuanbo Hua, Junyoung Park, Laurin Luttmann, Yining Ma, Fanchen Bu, Jiarui Wang, Haoran Ye, Minsu Kim, Sanghyeok Choi, Nayeli Gast Zepeda, André Hottung, Jianan Zhou, <u>Jieyi Bi</u>, Yu Hu, Fei Liu, Hyeonah Kim, Jiwoo Son, Haeyeon Kim, Davide Angioni, Wouter Kool, Zhiguang Cao, Qingfu Zhang, Joungho Kim, Jie Zhang, Kijung Shin, Cathy Wu, Sungsoo Ahn, Guojie Song, Changhyun Kwon, Kevin Tierney, Lin Xie, Jinkyoo Park \
+*ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (**KDD**), 2025.  
+  [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2306.17100)&nbsp;&nbsp;&nbsp;&nbsp;
+  [![Code](https://img.shields.io/badge/GitHub-Code-blue.svg)](https://github.com/ai4co/rl4co)&nbsp;&nbsp;&nbsp;&nbsp;
+  [![Oral](https://img.shields.io/badge/KDD-Oral-red.svg)]()
 
 - **Learning to Handle Complex Constraints for Vehicle Routing Problems**,  
 <u>Jieyi Bi</u>, Yining Ma, Jianan Zhou, Wen Song, Zhiguang Cao, Yaoxin Wu, Jie Zhang.  
@@ -34,8 +39,16 @@ author_profile: true
 
 ## Under Review
 
-- **RL4CO: an Extensive Reinforcement Learning for Combinatorial Optimization Benchmark** \
-   Federico Berto, Chuanbo Hua, Junyoung Park, Laurin Luttmann, Yining Ma, Fanchen Bu, Jiarui Wang, Haoran Ye, Minsu Kim, Sanghyeok Choi, Nayeli Gast Zepeda, André Hottung, Jianan Zhou, <u>Jieyi Bi</u>, Yu Hu, Fei Liu, Hyeonah Kim, Jiwoo Son, Haeyeon Kim, Davide Angioni, Wouter Kool, Zhiguang Cao, Qingfu Zhang, Joungho Kim, Jie Zhang, Kijung Shin, Cathy Wu, Sungsoo Ahn, Guojie Song, Changhyun Kwon, Kevin Tierney, Lin Xie, Jinkyoo Park \
-   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2306.17100)&nbsp;&nbsp;&nbsp;&nbsp;
-  [![Code](https://img.shields.io/badge/GitHub-Code-blue.svg)](https://github.com/ai4co/rl4co)
+* **Double-Blind** \
+   <u>Jieyi Bi</u>, Zhiguang Cao, Jianan Zhou, Wen Song, Yaoxin Wu, Jie Zhang, Yining Ma, Cathy Wu \
+   [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
+
+* **Double-Blind** \
+   Jianan Zhou\*, <u>Jieyi Bi</u>\*, Sirui Li\*, Yaoxin Wu, Yingqian Zhang, Jie Zhang, Yining Ma, Cathy Wu \
+   [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Awesome_List-blue.svg)](https://github.com/ai4co/awesome-fm4co)
+
+* **Double-Blind** \
+   Yiding Shi, Jianan Zhou, Wen Song, <u>Jieyi Bi</u>, Yaoxin Wu, Jie Zhang \
+   [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
+
 

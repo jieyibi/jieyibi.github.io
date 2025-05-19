@@ -50,5 +50,8 @@ author_profile: true
 * **Double-Blind** \
    Yiding Shi, Jianan Zhou, Wen Song, <u>Jieyi Bi</u>, Yaoxin Wu, Jie Zhang \
    [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
+  
+* **Double-Blind** \
+    Ziyan Wang, Yingpeng Du, Zhu Sun, <u>Jieyi Bi</u>, Haoyan Chua, Tianjun Wei, Jie Zhang
 
 

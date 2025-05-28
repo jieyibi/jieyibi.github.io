@@ -23,7 +23,7 @@ author_profile: true
 - **Learning to Handle Complex Constraints for Vehicle Routing Problems**,  
 <u>Jieyi Bi</u>, Yining Ma, Jianan Zhou, Wen Song, Zhiguang Cao, Yaoxin Wu, Jie Zhang.  
 *Advances in Neural Information Processing Systems* (**NeurIPS**), 2024.\
-[![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/abs/2410.21066)&nbsp;&nbsp;&nbsp;&nbsp;
+[![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2410.21066)&nbsp;&nbsp;&nbsp;&nbsp;
 [![Code](https://img.shields.io/badge/GitHub-Code-blue.svg)](https://github.com/jieyibi/PIP-constraint)&nbsp;&nbsp;&nbsp;&nbsp;
 [![Poster](https://img.shields.io/badge/NeurIPS-Poster-yellow.svg)](https://neurips.cc/virtual/2024/poster/95638)
 
@@ -31,7 +31,7 @@ author_profile: true
 - **Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation**,   
 <u>Jieyi Bi</u>, Yining Ma, Jiahai Wang, Zhiguang Cao, Jinbiao Chen, Yuan Sun, Yeow Meng Chee.   
 *Advances in Neural Information Processing Systems* (**NeurIPS**), pp. 31226-31238, 2022.  
-   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/abs/2210.07686)&nbsp;&nbsp;&nbsp;&nbsp;
+   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2210.07686)&nbsp;&nbsp;&nbsp;&nbsp;
   [![Code](https://img.shields.io/badge/GitHub-Code-blue.svg)](https://github.com/jieyibi/AMDKD)&nbsp;&nbsp;&nbsp;&nbsp;
   [![Poster](https://img.shields.io/badge/NeurIPS-Poster-yellow.svg)](https://neurips.cc/virtual/2022/poster/53726)&nbsp;&nbsp;&nbsp;&nbsp;
   [![Spotlight](https://img.shields.io/badge/NeurIPS-Spotlight-red.svg)](https://nips.cc/virtual/2022/spotlight/65189)
@@ -47,9 +47,9 @@ author_profile: true
    Jianan Zhou\*, <u>Jieyi Bi</u>\*, Sirui Li\*, Yaoxin Wu, Yingqian Zhang, Jie Zhang, Yining Ma, Cathy Wu \
    [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Awesome_List-blue.svg)](https://github.com/ai4co/awesome-fm4co)
 
-* **Double-Blind** \
+* **Generalizable Heuristic Generation Through Large Language Models with Meta-Optimization** \
    Yiding Shi, Jianan Zhou, Wen Song, <u>Jieyi Bi</u>, Yaoxin Wu, Jie Zhang \
-   [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
+   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2505.20881)
   
 * **Double-Blind** \
     Ziyan Wang, Yingpeng Du, Zhu Sun, <u>Jieyi Bi</u>, Haoyan Chua, Tianjun Wei, Jie Zhang

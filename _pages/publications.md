@@ -44,7 +44,7 @@ author_profile: true
    [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
 
 * **Double-Blind** \
-   Jianan Zhou\*, <u>Jieyi Bi</u>\*, Sirui Li\*, Yaoxin Wu, Yingqian Zhang, Jie Zhang, Yining Ma, Cathy Wu \
+   Jianan Zhou, <u>Jieyi Bi</u>, Sirui Li, Yaoxin Wu, Yingqian Zhang, Jie Zhang, Yining Ma, Cathy Wu \
    [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Awesome_List-blue.svg)](https://github.com/ai4co/awesome-fm4co)
 
 * **Generalizable Heuristic Generation Through Large Language Models with Meta-Optimization** \

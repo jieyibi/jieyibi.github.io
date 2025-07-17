@@ -22,8 +22,7 @@ News
 - [2024.10] I am selected as NeurIPS 2024 Top Reviewer (10%) for both main and DB track!  
 - [2024.09] My first-authored paper "_Learning to Handle Complex Constraints for Vehicle Routing Problems_" was accepted by NeurIPS 2024!  
 - [2024.01] Start my Ph.D. journey at CCDS, NTU!  
-- [2023.06] Graduate as Outstanding Graduate from SYSU, awarded the University First-Class Scholarship twice!  
-- [2022.10] Awarded Huawei Scholarship!  
+- [2023.06] Graduate as Outstanding Graduate from SYSU, awarded the University First-Class Scholarship twice!   
 - [2022.09] My first-authored paper "_Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation_" was accepted by NeurIPS 2022!  
 - [2020.09] Start my M.Eng. journey at SYSU, majoring in Software Engineering!  
 - [2020.06] Graduate as Outstanding Graduate from SYSU, awarded the China National Scholarship twice!

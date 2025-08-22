@@ -7,8 +7,8 @@ author_profile: true
 
 ## Academic Service
 
-* Conference Reviewer: NeurIPS'24-25; ICML'24-25; ICLR'25; AAAI'25; AISTATS’25; IJCNN'25; IJCAI'25; RLC'25; KDD'25; [ECAI'25](https://ecai2025.org/program-committee/);
-* Journal Reviewer: Transactions on Machine Learning Research (TMLR); Neural Networks; Complex System Modeling and Simulation; Annals of Mathematics and Artificial Intelligence;
+* Conference Reviewer: NeurIPS'24-25; ICML'24-25; ICLR'25; AAAI'25-26; AISTATS’25; IJCNN'25; IJCAI'25; RLC'25; KDD'25; [ECAI'25](https://ecai2025.org/program-committee/); NLDL'26;
+* Journal Reviewer: Transactions on Industrial Informatics (TII), Transactions on Machine Learning Research (TMLR); Neural Networks; Complex System Modeling and Simulation; Annals of Mathematics and Artificial Intelligence;
 * Student Volunteer: RecSys'23 @ Singapore;
 
 

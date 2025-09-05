@@ -19,8 +19,6 @@ Conference on Neural Information Processing Systems (NeurIPS), 2024
 Conference on Neural Information Processing Systems (NeurIPS), 2024
 - **Outstanding Graduates**  
 Sun Yat-sen University, 2023
-- **Huawei Scholarship**  
-Sun Yat-sen University, 2022
 - **Outstanding Graduates**  
 Sun Yat-sen University, 2020
 - **The 10th Li Xuerou Foundation Scholarship**  

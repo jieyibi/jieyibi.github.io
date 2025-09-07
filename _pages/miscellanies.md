@@ -30,11 +30,11 @@ China Society for Industrial and Applied Mathematics (CSIAM), 2018
 
 - **NeurIPS 2024 Scholar Award**  
 Conference on Neural Information Processing Systems (NeurIPS), 2024
-- **University Scholarship**  
+- **Outstanding Student Scholarship**  
 Sun Yat-sen University, AY2022-2023 (first-class), AY2021-2022 (first-class), AY2020-2021 (second-class)
 - **The 10th Li Xuerou Foundation Scholarship**  
 Sun Yat-sen University, 2019
-- **University Scholarship**   
+- **Outstanding Student Scholarship**   
 Sun Yat-sen University, AY2018-2019 (first-class), AY2017-2018 (first-class), AY2016-2017 (second-class)
 - **National Scholarship**  
 Ministry of Education, AY2018-2019, AY2017-2018

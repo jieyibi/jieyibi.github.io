@@ -44,8 +44,9 @@ Ministry of Education, AY2018-2019, AY2017-2018
 - Research Associate, Nanyang Technological University, Singapore, Aug 2023 - Present
   
   Under Projects:
-  - Prescriptive Analytics with DRL-Enabled Model (collaborating with [D-SIMLAB](https://d-simlab.com/) and [Micron](https://www.micron.com/)), AISG 100E4R, May 2024 - Present
-  - Research and Application of Deep Reinforcement Learning in Retail Logistics Supply Chain Optimization (collaborating with [SenseTime](https://www.sensetime.com/en)), S-Lab, Aug 2023 - May 2024
+  - Prescriptive Analytics with DRL-Enabled Model, AISG 100E4R, May 2024 - Present
+  - Learning Assisted Human-AI Collaboration for Combinatorial Optimization, AISG, May 2024 - May 2024  
+  - Research and Application of Deep Reinforcement Learning in Retail Logistics Supply Chain Optimization, S-Lab, Aug 2023 - May 2024
  
 ## Teaching (TA)
 

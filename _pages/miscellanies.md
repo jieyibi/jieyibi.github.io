@@ -7,9 +7,27 @@ author_profile: true
 
 ## Academic Service
 
-* **Conference Reviewer**: NeurIPS'24-25; ICML'24-25; ICLR'25; AAAI'25-26; AISTATS’25-26; IJCNN'25; IJCAI'25; RLC'25; KDD'25; [ECAI'25](https://ecai2025.org/program-committee/); NLDL'26;
-* **Journal Reviewer**: Transactions on Industrial Informatics (TII); Transactions on Machine Learning Research (TMLR); Neural Networks; Complex System Modeling and Simulation; Annals of Mathematics and Artificial Intelligence;
-* **Student Volunteer**: RecSys'23 @ Singapore;
+* **Conference Reviewer**:
+  * Conference on Neural Information Processing Systems (NeurIPS): 2024, 2025  
+  * International Conference on Machine Learning (ICML): 2024, 2025  
+  * International Conference on Learning Representations (ICLR): 2025, 2026  
+  * AAAI Conference on Artificial Intelligence (AAAI): 2025, 2026  
+  * International Joint Conference on Artificial Intelligence (IJCAI): 2025  
+  * ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD): 2025  
+  * International Conference on Artificial Intelligence and Statistics (AISTATS): 2025, 2026  
+  * International Joint Conference on Neural Networks (IJCNN): 2025  
+  * Reinforcement Learning Conference (RLC), 2025  
+  * European Conference on Artificial Intelligence (ECAI): [2025](https://ecai2025.org/program-committee/)  
+  * Northern Lights Deep Learning Conference (NLDL): 2026  
+* **Journal Reviewer**:
+  * Transportation Research Part E (TR-E)  
+  * Transactions on Industrial Informatics (TII)  
+  * Transactions on Machine Learning Research (TMLR)  
+  * Neural Networks
+  * Complex System Modeling and Simulation
+  * Annals of Mathematics and Artificial Intelligence
+* **Student Volunteer**:
+  * ACM Conference on Recommender Systems (RecSys): 2023 @ Singapore  
 
 
 ## Honors and Awards

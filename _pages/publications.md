@@ -40,6 +40,10 @@ author_profile: true
 ## Under Review
 
 * <span style="color: #0077cc">[VRP]</span> **Double-Blind** \
+   Weiting Liu, <u>Jieyi Bi</u>, Jianfeng Feng, Yining Ma \
+   [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
+
+* <span style="color: #0077cc">[VRP]</span> **Double-Blind** \
    <u>Jieyi Bi</u>, Zhiguang Cao, Jianan Zhou, Wen Song, Yaoxin Wu, Jie Zhang, Yining Ma, Cathy Wu \
    [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
 

@@ -17,6 +17,7 @@ My research interests focus on the intersection of Machine Learning (ML) and Opt
 
 News
 ======
+* [2025.11] I will conduct a research exchange at MIT, supervised by [Prof. Cathy Wu](https://www.wucathy.com/).
 * [2025.09] I gave a talk on "Constraint Handling in Learning-to-optimize: Progress and Future" to [LEAD 2025](https://sites.google.com/view/leadworkshop2025), Online.
 * [2025.05] I gave a talk on "Neural Combinatorial Optimization: Challenges and Applications" to [MINIEYE](https://www.minieye.cc/), Online.
 * [2025.05] My collaborated benchmark library "_RL4CO: An Extensive Reinforcement Learning for Combinatorial Optimization Benchmark_" got accepted by KDD (**Oral**) 2025!    <a href="https://arxiv.org/abs/2306.17100" target="_blank"> <img src="https://raw.githubusercontent.com/ai4co/assets/main/svg/rl4co_animated_full.svg" alt="RL4CO" style="width: 60px; height: auto; vertical-align: bottom;"></a>

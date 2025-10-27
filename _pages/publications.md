@@ -44,6 +44,10 @@ author_profile: true
    [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
 
 * <span style="color: #0077cc">[VRP]</span> **Double-Blind** \
+Yuanxu Yang, Jiahai Wang, <u>Jieyi Bi</u>, Jinbiao Chen, Zikang Yu, Zizhen Zhang \
+[![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
+
+* <span style="color: #0077cc">[VRP]</span> **Double-Blind** \
    <u>Jieyi Bi</u>, Zhiguang Cao, Jianan Zhou, Wen Song, Yaoxin Wu, Jie Zhang, Yining Ma, Cathy Wu \
    [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
 

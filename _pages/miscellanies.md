@@ -31,6 +31,8 @@ author_profile: true
 
 
 ## Honors and Awards
+- **NeurIPS 2025 Top Reviewer Award (Top 10%)**  
+Conference on Neural Information Processing Systems (NeurIPS), 2025
 - **NeurIPS 2024 Top Reviewer Award (Top 10%) (Both main and DB track!)**  
 Conference on Neural Information Processing Systems (NeurIPS), 2024
 - **Outstanding Graduates**  

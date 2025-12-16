@@ -20,6 +20,7 @@ author_profile: true
   * European Conference on Artificial Intelligence (ECAI): [2025](https://ecai2025.org/program-committee/)  
   * Northern Lights Deep Learning Conference (NLDL): 2026  
 * **Journal Reviewer**:
+  * Computers and Operations Research (CAOR) 
   * Transportation Research Part E (TR-E)  
   * Transactions on Industrial Informatics (TII)  
   * Transactions on Machine Learning Research (TMLR)  
@@ -27,6 +28,7 @@ author_profile: true
   * Complex System Modeling and Simulation
   * Annals of Mathematics and Artificial Intelligence
 * **Student Volunteer**:
+  * The 20th Workshop for Women in Machine Learning (WiML) @ NeurIPS: 2025 @ San Diego
   * ACM Conference on Recommender Systems (RecSys): 2023 @ Singapore  
 
 

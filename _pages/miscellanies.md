@@ -66,6 +66,7 @@ Ministry of Education, AY2018-2019, AY2017-2018
 - Research Associate, Nanyang Technological University, Singapore, Aug 2023 - Present
   
   Under Projects:
+  - Trustworthy Human-AI Combinatorial Optimization with Language Feedback, AISG (Fundamental Collaborative Research), Collaboration with MIT, Nov 2025 - Present
   - Prescriptive Analytics with DRL-Enabled Model, AISG 100E4R, May 2024 - Present
   - Learning Assisted Human-AI Collaboration for Combinatorial Optimization, AISG, May 2024 - May 2024  
   - Research and Application of Deep Reinforcement Learning in Retail Logistics Supply Chain Optimization, S-Lab, Aug 2023 - May 2024

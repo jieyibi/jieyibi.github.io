@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a second-year Ph.D. student in the College of Computing and Data Science ([CCDS](https://www.ntu.edu.sg/computing)) at Nanyang Technological University ([NTU](https://www.ntu.edu.sg/)), supervised by [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/) and [Prof. Zhiguang Cao](https://zhiguangcaosg.github.io/). Before that, I received my M.Eng. degree from Sun Yat-Sen University ([SYSU](https://www.sysu.edu.cn/sysuen/)) in 2023, advised by [Prof. Jiahai Wang](https://www.semanticscholar.org/author/Jiahai-Wang/2815388), and received my B.Sc. degree from SYSU in 2020.
+Hi! I am a third-year Ph.D. student in the College of Computing and Data Science ([CCDS](https://www.ntu.edu.sg/computing)) at Nanyang Technological University ([NTU](https://www.ntu.edu.sg/)), supervised by [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/) and [Prof. Zhiguang Cao](https://zhiguangcaosg.github.io/). I am currently conducting a research exchange at MIT, mentored by [Prof. Cathy Wu](https://cathywu.github.io/). I received my M.Eng. degree from Sun Yat-Sen University ([SYSU](https://www.sysu.edu.cn/sysuen/)) in 2023, advised by [Prof. Jiahai Wang](https://www.semanticscholar.org/author/Jiahai-Wang/2815388), and received my B.Sc. degree from SYSU in 2020.
 
 
 Research
@@ -17,7 +17,8 @@ My research interests focus on the intersection of Machine Learning (ML) and Opt
 
 News
 ======
-* [2025.11] I will conduct a research exchange at MIT, supervised by [Prof. Cathy Wu](https://www.wucathy.com/).
+* [2026.01] Two papers were accepted by ICLR 2026: 1) [Towards Efficient Constraint Handling in Neural Solvers for Routing Problems](https://openreview.net/forum?id=raDFGuQxvD), and 2) [Generalizable Heuristic Generation Through LLMs with Meta-Optimization](https://openreview.net/forum?id=tIQZ7pVN6S)! See you in Brazil🇧🇷!
+* [2025.11] I will conduct research exchange at MIT, supervised by [Prof. Cathy Wu](https://cathywu.github.io/).
 * [2025.10] I am selected as [NeurIPS 2025 Top Reviewer (10%)](https://neurips.cc/Conferences/2025/ProgramCommittee#top-reviewer)!
 * [2025.09] I gave a talk on "Constraint Handling in Learning-to-optimize: Progress and Future" to [LEAD 2025](https://sites.google.com/view/leadworkshop2025), Online.
 * [2025.05] I gave a talk on "Neural Combinatorial Optimization: Challenges and Applications" to [MINIEYE](https://www.minieye.cc/), Online.

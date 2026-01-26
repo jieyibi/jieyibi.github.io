@@ -13,6 +13,23 @@ author_profile: true
 
 ## Published
 
+COP: Combinatorial Optimization Problems;
+VRP: Vehicle Routing Problems
+
+* <span style="color: #0077cc">[VRP]</span> **Towards Efficient Constraint Handling in Neural Solvers for Routing Problems** \
+   Jianan Zhou, <u>Jieyi Bi</u>, Sirui Li, Yaoxin Wu, Yingqian Zhang, Jie Zhang, Yining Ma, Cathy Wu \
+  *International Conference on Learning Representations* (**ICLR**), 2026.  
+   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://openreview.net/pdf?id=raDFGuQxvD)&nbsp;&nbsp;&nbsp;&nbsp;
+    [![Code](https://img.shields.io/badge/GitHub-Soon-blue.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;
+  [![Review](https://img.shields.io/badge/ICLR-Review-orange.svg)](https://openreview.net/forum?id=raDFGuQxvD)
+
+* <span style="color: #0077cc">[LLM, COP]</span> **Generalizable Heuristic Generation Through Large Language Models with Meta-Optimization** \
+   Yiding Shi, Jianan Zhou, Wen Song, <u>Jieyi Bi</u>, Yaoxin Wu, Jie Zhang \
+    *International Conference on Learning Representations* (**ICLR**), 2026.  
+   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2505.20881)&nbsp;&nbsp;&nbsp;&nbsp;
+  [![Code](https://img.shields.io/badge/GitHub-Awesome_List-blue.svg)](https://github.com/ai4co/awesome-fm4co)&nbsp;&nbsp;&nbsp;&nbsp;
+  [![Review](https://img.shields.io/badge/ICLR-Review-orange.svg)](https://openreview.net/forum?id=tIQZ7pVN6S)
+
 - <span style="color: #0077cc">[COP]</span> **RL4CO: an Extensive Reinforcement Learning for Combinatorial Optimization Benchmark** \
    Federico Berto, Chuanbo Hua, Junyoung Park, Laurin Luttmann, Yining Ma, Fanchen Bu, Jiarui Wang, Haoran Ye, Minsu Kim, Sanghyeok Choi, Nayeli Gast Zepeda, André Hottung, Jianan Zhou, <u>Jieyi Bi</u>, Yu Hu, Fei Liu, Hyeonah Kim, Jiwoo Son, Haeyeon Kim, Davide Angioni, Wouter Kool, Zhiguang Cao, Qingfu Zhang, Joungho Kim, Jie Zhang, Kijung Shin, Cathy Wu, Sungsoo Ahn, Guojie Song, Changhyun Kwon, Kevin Tierney, Lin Xie, Jinkyoo Park \
 *ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (**KDD**), 2025.  
@@ -50,14 +67,6 @@ Yuanxu Yang, Jiahai Wang, <u>Jieyi Bi</u>, Jinbiao Chen, Zikang Yu, Zizhen Zhang
 * <span style="color: #0077cc">[VRP]</span> **Double-Blind** \
    <u>Jieyi Bi</u>, Zhiguang Cao, Jianan Zhou, Wen Song, Yaoxin Wu, Jie Zhang, Yining Ma, Cathy Wu \
    [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
-
-* <span style="color: #0077cc">[COP]</span> **Double-Blind** \
-   Jianan Zhou, <u>Jieyi Bi</u>, Sirui Li, Yaoxin Wu, Yingqian Zhang, Jie Zhang, Yining Ma, Cathy Wu \
-   [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Awesome_List-blue.svg)](https://github.com/ai4co/awesome-fm4co)
-
-* <span style="color: #0077cc">[LLM, COP]</span> **Generalizable Heuristic Generation Through Large Language Models with Meta-Optimization** \
-   Yiding Shi, Jianan Zhou, Wen Song, <u>Jieyi Bi</u>, Yaoxin Wu, Jie Zhang \
-   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2505.20881)
   
 * <span style="color: #0077cc">[LLM, Recommendation, COP]</span> **LLM-Driven Dual-Level Multi-Interest Modeling for Recommendation** \
     Ziyan Wang, Yingpeng Du, Zhu Sun, <u>Jieyi Bi</u>, Haoyan Chua, Tianjun Wei, Jie Zhang \

@@ -17,7 +17,7 @@ COP: Combinatorial Optimization Problems;
 VRP: Vehicle Routing Problems
 
 * <span style="color: #0077cc">[VRP]</span> **Towards Efficient Constraint Handling in Neural Solvers for Routing Problems** \
-   Jianan Zhou, <u>Jieyi Bi</u>, Sirui Li, Yaoxin Wu, Yingqian Zhang, Jie Zhang, Yining Ma, Cathy Wu \
+<u>Jieyi Bi</u>, Zhiguang Cao, Jianan Zhou, Wen Song, Yaoxin Wu, Jie Zhang, Yining Ma, Cathy Wu \
   *International Conference on Learning Representations* (**ICLR**), 2026.  
    [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://openreview.net/pdf?id=raDFGuQxvD)&nbsp;&nbsp;&nbsp;&nbsp;
     [![Code](https://img.shields.io/badge/GitHub-Soon-blue.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;
@@ -64,9 +64,10 @@ VRP: Vehicle Routing Problems
 Yuanxu Yang, Jiahai Wang, <u>Jieyi Bi</u>, Jinbiao Chen, Zikang Yu, Zizhen Zhang \
 [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
 
-* <span style="color: #0077cc">[VRP]</span> **Double-Blind** \
-   <u>Jieyi Bi</u>, Zhiguang Cao, Jianan Zhou, Wen Song, Yaoxin Wu, Jie Zhang, Yining Ma, Cathy Wu \
+* <span style="color: #0077cc">[COP, Position paper]</span> **Double-Blind** \
+Jianan Zhou, <u>Jieyi Bi</u>, Sirui Li, Yaoxin Wu, Yingqian Zhang, Jie Zhang, Yining Ma, Cathy Wu \
    [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
+    [![Code](https://img.shields.io/badge/GitHub-Awesome_List-blue.svg)](https://github.com/ai4co/awesome-fm4co)&nbsp;&nbsp;&nbsp;&nbsp;
   
 * <span style="color: #0077cc">[LLM, Recommendation, COP]</span> **LLM-Driven Dual-Level Multi-Interest Modeling for Recommendation** \
     Ziyan Wang, Yingpeng Du, Zhu Sun, <u>Jieyi Bi</u>, Haoyan Chua, Tianjun Wei, Jie Zhang \

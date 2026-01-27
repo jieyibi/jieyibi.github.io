@@ -15,7 +15,7 @@ author_profile: true
 
 ## Published
 
- \* Equal Contribution; $^\dagger$ Corresponding Author.
+ \* Equal Contribution; † Corresponding Author.
 
 * <span style="color: #0077cc">[VRP]</span> **Towards Efficient Constraint Handling in Neural Solvers for Routing Problems** \
 <u>Jieyi Bi</u>, Zhiguang Cao, Jianan Zhou, Wen Song, Yaoxin Wu, Jie Zhang, Yining Ma, Cathy Wu \
@@ -32,7 +32,7 @@ author_profile: true
   [![Review](https://img.shields.io/badge/ICLR-Review-orange.svg)](https://openreview.net/forum?id=tIQZ7pVN6S)
 
 * <span style="color: #0077cc">[COP]</span> **Learning to Optimize Capacity Planning in Semiconductor Manufacturing** \
-   Philipp Andelfinger\*, <u>Jieyi Bi</u>\* $^\dagger$, Qiuyu Zhu\*, Jianan Zhou, Bo Zhang, Fei Fei Zhang, Chew Wye Chan, Boon Ping Gan, Wentong Cai, Jie Zhang \
+   Philipp Andelfinger\*, <u>Jieyi Bi</u>\*†, Qiuyu Zhu\*, Jianan Zhou, Bo Zhang, Fei Fei Zhang, Chew Wye Chan, Boon Ping Gan, Wentong Cai, Jie Zhang \
    *24th Asia Simulation Conference (AsiaSim), 2025*\
    [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2509.15767)
 

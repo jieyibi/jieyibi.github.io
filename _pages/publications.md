@@ -12,9 +12,7 @@ author_profile: true
 {% include base_path %}
 
  COP: Combinatorial Optimization Problems; VRP: Vehicle Routing Problems
-
 ## Published
-
  \* Equal Contribution; † Corresponding Author.
 
 * <span style="color: #0077cc">[VRP]</span> **Towards Efficient Constraint Handling in Neural Solvers for Routing Problems** \
@@ -33,7 +31,7 @@ author_profile: true
 
 * <span style="color: #0077cc">[COP]</span> **Learning to Optimize Capacity Planning in Semiconductor Manufacturing** \
    Philipp Andelfinger\*, <u>Jieyi Bi</u>\*†, Qiuyu Zhu\*, Jianan Zhou, Bo Zhang, Fei Fei Zhang, Chew Wye Chan, Boon Ping Gan, Wentong Cai, Jie Zhang \
-   *24th Asia Simulation Conference (AsiaSim), 2025*\
+   *24th Asia Simulation Conference* (AsiaSim), 2025.\
    [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2509.15767)
 
 - <span style="color: #0077cc">[COP]</span> **RL4CO: an Extensive Reinforcement Learning for Combinatorial Optimization Benchmark** \

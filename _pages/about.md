@@ -17,7 +17,8 @@ My research interests focus on the intersection of Machine Learning (ML) and Opt
 
 News
 ======
-* [2026.01] Two papers were accepted by ICLR 2026: 1) [Towards Efficient Constraint Handling in Neural Solvers for Routing Problems](https://openreview.net/forum?id=raDFGuQxvD), and 2) [Generalizable Heuristic Generation Through LLMs with Meta-Optimization](https://openreview.net/forum?id=tIQZ7pVN6S)!
+* [2026.02] I’m excited to present my recent work, 'Efficient Constraint Handling in AI for Logistics', at the annual MIT CEE Research Day on Feb 23rd!
+* [2026.01] Two papers were accepted by ICLR 2026: 1) [Towards Efficient Constraint Handling in Neural Solvers for Routing Problems](https://openreview.net/forum?id=raDFGuQxvD), and 2) [Generalizable Heuristic Generation Through LLMs with Meta-Optimization](https://openreview.net/forum?id=tIQZ7pVN6S)! Welcome to chat with me in Rio!
 * [2025.11] I will conduct research exchange at MIT's [Laboratory for Information and Decision Systems (LIDS)](https://lids.mit.edu/), supervised by [Prof. Cathy Wu](https://cathywu.github.io/).
 * [2025.10] I am selected as [NeurIPS 2025 Top Reviewer (10%)](https://neurips.cc/Conferences/2025/ProgramCommittee#top-reviewer)!
 * [2025.09] I gave a talk on "Constraint Handling in Learning-to-optimize: Progress and Future" to [LEAD 2025](https://sites.google.com/view/leadworkshop2025), Online.

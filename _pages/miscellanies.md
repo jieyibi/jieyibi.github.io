@@ -8,18 +8,19 @@ author_profile: true
 ## Academic Service
 
 * **Conference Reviewer**:
-  * Conference on Neural Information Processing Systems (NeurIPS): 2024, 2025  
-  * International Conference on Machine Learning (ICML): 2024, 2025  
+  * Conference on Neural Information Processing Systems (NeurIPS): 2024, 2025 
+  * International Conference on Machine Learning (ICML): 2024, 2025，2026 
   * International Conference on Learning Representations (ICLR): 2025, 2026  
   * AAAI Conference on Artificial Intelligence (AAAI): 2025, 2026  
   * International Joint Conference on Artificial Intelligence (IJCAI): 2025  
-  * ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD): 2025  
+  * ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD): 2025, 2026  
   * International Conference on Artificial Intelligence and Statistics (AISTATS): 2025, 2026  
   * International Joint Conference on Neural Networks (IJCNN): 2025  
   * Reinforcement Learning Conference (RLC), 2025  
   * European Conference on Artificial Intelligence (ECAI): [2025](https://ecai2025.org/program-committee/)  
   * Northern Lights Deep Learning Conference (NLDL): 2026  
 * **Journal Reviewer**:
+  * Transportation Research Part C (TR-C)  
   * Computers and Operations Research (CAOR) 
   * Transportation Research Part E (TR-E)  
   * Transactions on Industrial Informatics (TII)  
@@ -63,6 +64,7 @@ Ministry of Education, AY2018-2019, AY2017-2018
 
 ## Experience
 
+- Visiting Student, Massachusetts Institute of Technology, United States, Nov 2025 - Feb 2026
 - Research Associate, Nanyang Technological University, Singapore, Aug 2023 - Present
   
   Under Projects:
@@ -74,10 +76,10 @@ Ministry of Education, AY2018-2019, AY2017-2018
 ## Teaching (TA)
 
 AY2021-2022 Sem2:
-* Artificial Intelligence
+* Artificial Intelligence (undergraduate), Sun Yat-sen University
   
 AY2021-2022 Sem1:
-* Artificial Intelligence
+* Artificial Intelligence (undergraduate), Sun Yat-sen University
 
   
     

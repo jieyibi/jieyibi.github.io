@@ -9,7 +9,7 @@ author_profile: true
 
 * **Conference Reviewer**:
   * Conference on Neural Information Processing Systems (NeurIPS): 2024, 2025 
-  * International Conference on Machine Learning (ICML): 2024, 2025，2026 
+  * International Conference on Machine Learning (ICML): 2024, 2025, 2026 
   * International Conference on Learning Representations (ICLR): 2025, 2026  
   * AAAI Conference on Artificial Intelligence (AAAI): 2025, 2026  
   * International Joint Conference on Artificial Intelligence (IJCAI): 2025  

@@ -20,14 +20,14 @@ author_profile: true
   *International Conference on Learning Representations* (**ICLR**), 2026.  
    [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://openreview.net/pdf?id=raDFGuQxvD)&nbsp;&nbsp;&nbsp;&nbsp;
     [![Code](https://img.shields.io/badge/GitHub-Soon-blue.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;
-  [![Review](https://img.shields.io/badge/ICLR-Review-orange.svg)](https://openreview.net/forum?id=raDFGuQxvD)
+  [![Review](https://img.shields.io/badge/ICLR-Poster-orange.svg)](https://openreview.net/forum?id=raDFGuQxvD)
 
 * <span style="color: #0077cc">[LLM, COP]</span> **Generalizable Heuristic Generation Through Large Language Models with Meta-Optimization** \
    Yiding Shi, Jianan Zhou, Wen Song, <u>Jieyi Bi</u>, Yaoxin Wu, Jie Zhang \
     *International Conference on Learning Representations* (**ICLR**), 2026.  
    [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2505.20881)&nbsp;&nbsp;&nbsp;&nbsp;
   [![Code](https://img.shields.io/badge/GitHub-Awesome_List-blue.svg)](https://github.com/ai4co/awesome-fm4co)&nbsp;&nbsp;&nbsp;&nbsp;
-  [![Review](https://img.shields.io/badge/ICLR-Review-orange.svg)](https://openreview.net/forum?id=tIQZ7pVN6S)
+  [![Review](https://img.shields.io/badge/ICLR-Poster-orange.svg)](https://openreview.net/forum?id=tIQZ7pVN6S)
 
 * <span style="color: #0077cc">[COP]</span> **Learning to Optimize Capacity Planning in Semiconductor Manufacturing** \
    Philipp Andelfinger\*, <u>Jieyi Bi</u>\*†, Qiuyu Zhu\*, Jianan Zhou, Bo Zhang, Fei Fei Zhang, Chew Wye Chan, Boon Ping Gan, Wentong Cai, Jie Zhang \
@@ -59,6 +59,10 @@ author_profile: true
 
 
 ## Under Review
+
+* <span style="color: #0077cc">[VRP]</span> **Double-Blind** \
+   Jiayuan Ding\*, <u>Jieyi Bi</u>\*, Yining Ma, Zhiguang Cao, Yue-Jiao Gong \
+   [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
 
 * <span style="color: #0077cc">[VRP]</span> **Double-Blind** \
    Weiting Liu, <u>Jieyi Bi</u>, Jianfeng Feng, Yining Ma \

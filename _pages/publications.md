@@ -19,7 +19,7 @@ author_profile: true
 <u>Jieyi Bi</u>, Zhiguang Cao, Jianan Zhou, Wen Song, Yaoxin Wu, Jie Zhang, Yining Ma, Cathy Wu \
   *International Conference on Learning Representations* (**ICLR**), 2026.  
    [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://openreview.net/pdf?id=raDFGuQxvD)&nbsp;&nbsp;&nbsp;&nbsp;
-    [![Code](https://img.shields.io/badge/GitHub-Soon-blue.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;
+    [![Code](https://img.shields.io/badge/GitHub-Code-blue.svg)](https://github.com/jieyibi/CaR-constraint)&nbsp;&nbsp;&nbsp;&nbsp;
   [![Review](https://img.shields.io/badge/ICLR-Poster-orange.svg)](https://openreview.net/forum?id=raDFGuQxvD)
 
 * <span style="color: #0077cc">[LLM, COP]</span> **Generalizable Heuristic Generation Through Large Language Models with Meta-Optimization** \

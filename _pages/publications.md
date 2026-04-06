@@ -15,6 +15,13 @@ author_profile: true
 ## Published
  \* Equal Contribution; † Corresponding Author.
 
+* <span style="color: #0077cc">[LLM, Recommendation, COP]</span> **Adaptive and Representative Multi-Interest Modeling for Recommendation with Large Language Model** \
+    Ziyan Wang, Yingpeng Du, Zhu Sun, <u>Jieyi Bi</u>, Haoyan Chua, Tianjun Wei, Jie Zhang \
+  *Findings of the Association for Computational Linguistics* (**ACL Findings**), 2026.  
+  [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2507.10917)
+
+
+
 * <span style="color: #0077cc">[VRP]</span> **Towards Efficient Constraint Handling in Neural Solvers for Routing Problems** \
 <u>Jieyi Bi</u>, Zhiguang Cao, Jianan Zhou, Wen Song, Yaoxin Wu, Jie Zhang, Yining Ma, Cathy Wu \
   *International Conference on Learning Representations* (**ICLR**), 2026.  
@@ -76,9 +83,5 @@ Yuanxu Yang, Jiahai Wang, <u>Jieyi Bi</u>, Jinbiao Chen, Zikang Yu, Zizhen Zhang
 Jianan Zhou\*, <u>Jieyi Bi</u>\*, Sirui Li\*, Yaoxin Wu, Yingqian Zhang, Jie Zhang, Yining Ma, Cathy Wu \
    [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
     [![Code](https://img.shields.io/badge/GitHub-Awesome_List-blue.svg)](https://github.com/ai4co/awesome-fm4co)&nbsp;&nbsp;&nbsp;&nbsp;
-  
-* <span style="color: #0077cc">[LLM, Recommendation, COP]</span> **LLM-Driven Dual-Level Multi-Interest Modeling for Recommendation** \
-    Ziyan Wang, Yingpeng Du, Zhu Sun, <u>Jieyi Bi</u>, Haoyan Chua, Tianjun Wei, Jie Zhang \
-  [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2507.10917)
 
 

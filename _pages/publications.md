@@ -15,11 +15,15 @@ author_profile: true
 ## Published
  \* Equal Contribution; † Corresponding Author.
 
+* <span style="color: #0077cc">[VRP]</span> **Learning to Solve Complex Constrained Routing Problems with Feasibility-Guided Reward and Diversity-Guided Policy** \
+Yuanxu Yang, Jiahai Wang, <u>Jieyi Bi</u>, Jinbiao Chen, Zikang Yu, Zizhen Zhang \
+*The International Conference on Parallel Problem Solving From Nature* (**PPSN**), 2026.  
+[![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
+
 * <span style="color: #0077cc">[LLM, Recommendation, COP]</span> **Adaptive and Representative Multi-Interest Modeling for Recommendation with Large Language Model** \
     Ziyan Wang, Yingpeng Du, Zhu Sun, <u>Jieyi Bi</u>, Haoyan Chua, Tianjun Wei, Jie Zhang \
   *Findings of the Association for Computational Linguistics* (**ACL Findings**), 2026.  
   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2507.10917)
-
 
 
 * <span style="color: #0077cc">[VRP]</span> **Towards Efficient Constraint Handling in Neural Solvers for Routing Problems** \
@@ -58,7 +62,7 @@ author_profile: true
 
 - <span style="color: #0077cc">[VRP]</span> **Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation**,   
 <u>Jieyi Bi</u>, Yining Ma, Jiahai Wang, Zhiguang Cao, Jinbiao Chen, Yuan Sun, Yeow Meng Chee.   
-*Advances in Neural Information Processing Systems* (**NeurIPS**), pp. 31226-31238, 2022.  
+*Advances in Neural Information Processing Systems* (**NeurIPS**), 2022.  
    [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2210.07686)&nbsp;&nbsp;&nbsp;&nbsp;
   [![Code](https://img.shields.io/badge/GitHub-Code-blue.svg)](https://github.com/jieyibi/AMDKD)&nbsp;&nbsp;&nbsp;&nbsp;
   [![Poster](https://img.shields.io/badge/NeurIPS-Poster-yellow.svg)](https://neurips.cc/virtual/2022/poster/53726)&nbsp;&nbsp;&nbsp;&nbsp;
@@ -68,16 +72,28 @@ author_profile: true
 ## Under Review
 
 * <span style="color: #0077cc">[VRP]</span> **Double-Blind** \
+   <u>Jieyi Bi</u>, Yining Ma, Tianyue Zhou, Piotr Sielski, Akif Çördük, Zhiguang Cao, Jie Zhang, Burcin Bozkaya, Cathy Wu \
+   [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
+  
+* <span style="color: #0077cc">[VRP]</span> **Double-Blind** \
+   Haocheng Duan, Yuxin Guo, <u>Jieyi Bi</u>, Anqi Xie, Sirui Li, Yining Ma, Cathy Wu \
+   [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
+  
+* <span style="color: #0077cc">[Agentic AI, LLM]</span> **Double-Blind** \
+   Weiting Liu, <u>Jieyi Bi</u>, Wanqi Zhou, Jianfeng Feng, Yining Ma, Ai Han, Wenlian Lu \
+   [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
+  
+* <span style="color: #0077cc">[Robust Optimization]</span> **Learning Scenario Reduction for Two-Stage Robust Optimization with Discrete Uncertainty** \
+   Tianjue Lin, Jianan Zhou, <u>Jieyi Bi</u>, Yaoxin Wu, Wen Song, Zhiguang Cao, Jie Zhang \
+   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2605.14494)
+  
+* <span style="color: #0077cc">[VRP]</span> **Double-Blind** \
    Jiayuan Ding\*, <u>Jieyi Bi</u>\*, Yining Ma, Zhiguang Cao, Yue-Jiao Gong \
    [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
 
 * <span style="color: #0077cc">[VRP]</span> **Double-Blind** \
    Weiting Liu, <u>Jieyi Bi</u>, Jianfeng Feng, Yining Ma \
    [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
-
-* <span style="color: #0077cc">[VRP]</span> **Double-Blind** \
-Yuanxu Yang, Jiahai Wang, <u>Jieyi Bi</u>, Jinbiao Chen, Zikang Yu, Zizhen Zhang \
-[![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
 
 * <span style="color: #0077cc">[COP, Position paper]</span> **Double-Blind** \
 Jianan Zhou\*, <u>Jieyi Bi</u>\*, Sirui Li\*, Yaoxin Wu, Yingqian Zhang, Jie Zhang, Yining Ma, Cathy Wu \

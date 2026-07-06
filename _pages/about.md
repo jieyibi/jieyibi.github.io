@@ -10,7 +10,7 @@ redirect_from:
 Hi! I am a third-year Ph.D. student in the College of Computing and Data Science ([CCDS](https://www.ntu.edu.sg/computing)) at Nanyang Technological University ([NTU](https://www.ntu.edu.sg/)), supervised by [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/) and [Prof. Zhiguang Cao](https://zhiguangcaosg.github.io/). I am currently conducting research at MIT's [Laboratory for Information and Decision Systems (LIDS)](https://lids.mit.edu/), mentored by [Prof. Cathy Wu](https://cathywu.github.io/). Previously, I received my M.Eng. degree from Sun Yat-Sen University ([SYSU](https://www.sysu.edu.cn/sysuen/)) in 2023, advised by [Prof. Jiahai Wang](https://www.semanticscholar.org/author/Jiahai-Wang/2815388), and received my B.Sc. degree from SYSU in 2020.
 
 
-🎓 Research
+Research
 ======
 My research focuses on **AI for Optimization**, specifically developing autonomous solutions for complex optimization problems and decision-making challenges, including feasibility handling, generalization and interpretability. Recently, I am exploring the integration of LLMs and Agentic AI to build next-generation solvers for compelling application domains, such as routing, manufacturing, and robotics.
 
@@ -21,7 +21,7 @@ My research focuses on **AI for Optimization**, specifically developing autonomo
 - Application: Routing, Scheduling, Manufacturing, Robotics
 
 
-📌News
+News
 ======
 * [2026.04] I gave a talk on "Constraint Handling in Neural Routing Solvers" to Eindhoven University of Technology, Online.
 * [2026.02] I’m excited to present my recent work, 'Efficient Constraint Handling in AI for Logistics', at the annual MIT CEE Research Day on Feb 23rd!

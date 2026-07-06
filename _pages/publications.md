@@ -33,7 +33,7 @@ Yuanxu Yang, Jiahai Wang, <u>Jieyi Bi</u>, Jinbiao Chen, Zikang Yu, Zizhen Zhang
     [![Code](https://img.shields.io/badge/GitHub-Code-blue.svg)](https://github.com/jieyibi/CaR-constraint)&nbsp;&nbsp;&nbsp;&nbsp;
   [![Review](https://img.shields.io/badge/ICLR-Poster-orange.svg)](https://openreview.net/forum?id=raDFGuQxvD)
 
-* <span style="color: #0077cc">[LLM, Optimization, COP]</span> **Generalizable Heuristic Generation Through Large Language Models with Meta-Optimization** \
+* <span style="color: #0077cc">[LLM, Code Generation, COP]</span> **Generalizable Heuristic Generation Through Large Language Models with Meta-Optimization** \
    Yiding Shi, Jianan Zhou, Wen Song, <u>Jieyi Bi</u>, Yaoxin Wu, Jie Zhang \
     *International Conference on Learning Representations* (**ICLR**), 2026.  
    [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2505.20881)&nbsp;&nbsp;&nbsp;&nbsp;

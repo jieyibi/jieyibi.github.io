@@ -15,44 +15,44 @@ author_profile: true
 ## Published
  \* Equal Contribution; † Corresponding Author.
 
-* <span style="color: #0077cc">[VRP]</span> **Learning to Solve Complex Constrained Routing Problems with Feasibility-Guided Reward and Diversity-Guided Policy** \
+* <span style="color: #0077cc">[Optimization, VRP]</span> **Learning to Solve Complex Constrained Routing Problems with Feasibility-Guided Reward and Diversity-Guided Policy** \
 Yuanxu Yang, Jiahai Wang, <u>Jieyi Bi</u>, Jinbiao Chen, Zikang Yu, Zizhen Zhang \
 *The International Conference on Parallel Problem Solving From Nature* (**PPSN**), 2026.  
 [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
 
-* <span style="color: #0077cc">[LLM, Recommendation, COP]</span> **Adaptive and Representative Multi-Interest Modeling for Recommendation with Large Language Model** \
+* <span style="color: #0077cc">[LLM, Recommendation, Optimization]</span> **Adaptive and Representative Multi-Interest Modeling for Recommendation with Large Language Model** \
     Ziyan Wang, Yingpeng Du, Zhu Sun, <u>Jieyi Bi</u>, Haoyan Chua, Tianjun Wei, Jie Zhang \
   *Findings of the Association for Computational Linguistics* (**ACL Findings**), 2026.  
   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2507.10917)
 
 
-* <span style="color: #0077cc">[VRP]</span> **Towards Efficient Constraint Handling in Neural Solvers for Routing Problems** \
+* <span style="color: #0077cc">[Optimization, VRP]</span> **Towards Efficient Constraint Handling in Neural Solvers for Routing Problems** \
 <u>Jieyi Bi</u>, Zhiguang Cao, Jianan Zhou, Wen Song, Yaoxin Wu, Jie Zhang, Yining Ma, Cathy Wu \
   *International Conference on Learning Representations* (**ICLR**), 2026.  
    [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://openreview.net/pdf?id=raDFGuQxvD)&nbsp;&nbsp;&nbsp;&nbsp;
     [![Code](https://img.shields.io/badge/GitHub-Code-blue.svg)](https://github.com/jieyibi/CaR-constraint)&nbsp;&nbsp;&nbsp;&nbsp;
   [![Review](https://img.shields.io/badge/ICLR-Poster-orange.svg)](https://openreview.net/forum?id=raDFGuQxvD)
 
-* <span style="color: #0077cc">[LLM, COP]</span> **Generalizable Heuristic Generation Through Large Language Models with Meta-Optimization** \
+* <span style="color: #0077cc">[LLM, Optimization, COP]</span> **Generalizable Heuristic Generation Through Large Language Models with Meta-Optimization** \
    Yiding Shi, Jianan Zhou, Wen Song, <u>Jieyi Bi</u>, Yaoxin Wu, Jie Zhang \
     *International Conference on Learning Representations* (**ICLR**), 2026.  
    [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2505.20881)&nbsp;&nbsp;&nbsp;&nbsp;
   [![Code](https://img.shields.io/badge/GitHub-Awesome_List-blue.svg)](https://github.com/ai4co/awesome-fm4co)&nbsp;&nbsp;&nbsp;&nbsp;
   [![Review](https://img.shields.io/badge/ICLR-Poster-orange.svg)](https://openreview.net/forum?id=tIQZ7pVN6S)
 
-* <span style="color: #0077cc">[COP]</span> **Learning to Optimize Capacity Planning in Semiconductor Manufacturing** \
+* <span style="color: #0077cc">[Optimization, COP]</span> **Learning to Optimize Capacity Planning in Semiconductor Manufacturing** \
    Philipp Andelfinger\*, <u>Jieyi Bi</u>\*†, Qiuyu Zhu\*, Jianan Zhou, Bo Zhang, Fei Fei Zhang, Chew Wye Chan, Boon Ping Gan, Wentong Cai, Jie Zhang \
    *24th Asia Simulation Conference* (AsiaSim), 2025.\
    [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2509.15767)
 
-- <span style="color: #0077cc">[COP]</span> **RL4CO: an Extensive Reinforcement Learning for Combinatorial Optimization Benchmark** \
+- <span style="color: #0077cc">[Optimization, COP]</span> **RL4CO: an Extensive Reinforcement Learning for Combinatorial Optimization Benchmark** \
    Federico Berto, Chuanbo Hua, Junyoung Park, Laurin Luttmann, Yining Ma, Fanchen Bu, Jiarui Wang, Haoran Ye, Minsu Kim, Sanghyeok Choi, Nayeli Gast Zepeda, André Hottung, Jianan Zhou, <u>Jieyi Bi</u>, Yu Hu, Fei Liu, Hyeonah Kim, Jiwoo Son, Haeyeon Kim, Davide Angioni, Wouter Kool, Zhiguang Cao, Qingfu Zhang, Joungho Kim, Jie Zhang, Kijung Shin, Cathy Wu, Sungsoo Ahn, Guojie Song, Changhyun Kwon, Kevin Tierney, Lin Xie, Jinkyoo Park \
 *ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (**KDD**), 2025.  
   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2306.17100)&nbsp;&nbsp;&nbsp;&nbsp;
   [![Code](https://img.shields.io/badge/GitHub-Code-blue.svg)](https://github.com/ai4co/rl4co)&nbsp;&nbsp;&nbsp;&nbsp;
   [![Oral](https://img.shields.io/badge/KDD-Oral-red.svg)]()
 
-- <span style="color: #0077cc">[VRP]</span> **Learning to Handle Complex Constraints for Vehicle Routing Problems**,  
+- <span style="color: #0077cc">[Optimization, VRP]</span> **Learning to Handle Complex Constraints for Vehicle Routing Problems**,  
 <u>Jieyi Bi</u>, Yining Ma, Jianan Zhou, Wen Song, Zhiguang Cao, Yaoxin Wu, Jie Zhang.  
 *Advances in Neural Information Processing Systems* (**NeurIPS**), 2024.\
 [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2410.21066)&nbsp;&nbsp;&nbsp;&nbsp;
@@ -60,7 +60,7 @@ Yuanxu Yang, Jiahai Wang, <u>Jieyi Bi</u>, Jinbiao Chen, Zikang Yu, Zizhen Zhang
 [![Poster](https://img.shields.io/badge/NeurIPS-Poster-yellow.svg)](https://neurips.cc/virtual/2024/poster/95638)
 
 
-- <span style="color: #0077cc">[VRP]</span> **Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation**,   
+- <span style="color: #0077cc">[Optimization, VRP]</span> **Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation**,   
 <u>Jieyi Bi</u>, Yining Ma, Jiahai Wang, Zhiguang Cao, Jinbiao Chen, Yuan Sun, Yeow Meng Chee.   
 *Advances in Neural Information Processing Systems* (**NeurIPS**), 2022.  
    [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2210.07686)&nbsp;&nbsp;&nbsp;&nbsp;
@@ -70,14 +70,18 @@ Yuanxu Yang, Jiahai Wang, <u>Jieyi Bi</u>, Jinbiao Chen, Zikang Yu, Zizhen Zhang
 
 
 ## Under Review
+* <span style="color: #0077cc">[Optimization, VRP]</span> **Double-Blind** \
+   Dat Thanh Tran, Van Khu Vu, Yining Ma and <u>Jieyi Bi</u>† \
+   [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
 
-* <span style="color: #0077cc">[VRP]</span> **Double-Blind** \
+
+* <span style="color: #0077cc">[Optimization, VRP]</span> **Double-Blind** \
    <u>Jieyi Bi</u>, Yining Ma, Tianyue Zhou, Piotr Sielski, Akif Çördük, Zhiguang Cao, Jie Zhang, Burcin Bozkaya, Cathy Wu \
    [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
   
-* <span style="color: #0077cc">[VRP]</span> **Double-Blind** \
+* <span style="color: #0077cc">[Optimization, VRP]</span> **Interpreting Neural Combinatorial Optimization via Evolving Programmatic Bottlenecks** \
    Haocheng Duan, Yuxin Guo, <u>Jieyi Bi</u>, Anqi Xie, Sirui Li, Yining Ma, Cathy Wu \
-   [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
+   [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)](https://arxiv.org/pdf/2606.19741)
   
 * <span style="color: #0077cc">[Agentic AI, LLM]</span> **Double-Blind** \
    Weiting Liu, <u>Jieyi Bi</u>, Wanqi Zhou, Jianfeng Feng, Yining Ma, Ai Han, Wenlian Lu \
@@ -87,7 +91,7 @@ Yuanxu Yang, Jiahai Wang, <u>Jieyi Bi</u>, Jinbiao Chen, Zikang Yu, Zizhen Zhang
    Tianjue Lin, Jianan Zhou, <u>Jieyi Bi</u>, Yaoxin Wu, Wen Song, Zhiguang Cao, Jie Zhang \
    [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2605.14494)
   
-* <span style="color: #0077cc">[VRP]</span> **Double-Blind** \
+* <span style="color: #0077cc">[Optimization, VRP]</span> **Double-Blind** \
    Jiayuan Ding\*, <u>Jieyi Bi</u>\*, Yining Ma, Zhiguang Cao, Yue-Jiao Gong \
    [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
 

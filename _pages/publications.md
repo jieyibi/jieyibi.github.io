@@ -71,7 +71,7 @@ Yuanxu Yang, Jiahai Wang, <u>Jieyi Bi</u>, Jinbiao Chen, Zikang Yu, Zizhen Zhang
 
 ## Under Review
 * <span style="color: #0077cc">[Optimization, VRP]</span> **Double-Blind** \
-   Dat Thanh Tran, Van Khu Vu, Yining Ma and <u>Jieyi Bi</u>† \
+   Dat Thanh Tran, Van Khu Vu, <u>Jieyi Bi</u>† and Yining Ma\
    [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
 
 
@@ -81,11 +81,11 @@ Yuanxu Yang, Jiahai Wang, <u>Jieyi Bi</u>, Jinbiao Chen, Zikang Yu, Zizhen Zhang
   
 * <span style="color: #0077cc">[Optimization, VRP]</span> **Interpreting Neural Combinatorial Optimization via Evolving Programmatic Bottlenecks** \
    Haocheng Duan, Yuxin Guo, <u>Jieyi Bi</u>, Anqi Xie, Sirui Li, Yining Ma, Cathy Wu \
-   [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)](https://arxiv.org/pdf/2606.19741)
+   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2606.19741)
   
-* <span style="color: #0077cc">[Agentic AI, LLM]</span> **Double-Blind** \
+* <span style="color: #0077cc">[Agentic AI, LLM]</span> **ToolAnchor: Anchoring Counterfactual Context to Boost Agentic Tool-use Capability** \
    Weiting Liu, <u>Jieyi Bi</u>, Wanqi Zhou, Jianfeng Feng, Yining Ma, Ai Han, Wenlian Lu \
-   [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
+   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2607.14145)
   
 * <span style="color: #0077cc">[Robust Optimization]</span> **Learning Scenario Reduction for Two-Stage Robust Optimization with Discrete Uncertainty** \
    Tianjue Lin, Jianan Zhou, <u>Jieyi Bi</u>, Yaoxin Wu, Wen Song, Zhiguang Cao, Jie Zhang \

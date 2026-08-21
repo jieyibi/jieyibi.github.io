@@ -15,6 +15,11 @@ author_profile: true
 ## Published
  \* Equal Contribution; † Corresponding Author.
 
+* <span style="color: #0077cc">[Optimization]</span> **FormuEvo: LLM-Guided Evolution for Discovering Solver-Efficient Mixed-Integer Programming Formulations** \
+Haofeng Yuan, Jianing Peng, <u>Jieyi Bi</u>, Ni Zhang, Shiji Song, Zhiguang Cao \
+*The Conference on Empirical Methods in Natural Language Processing* (**EMNLP**), 2026.  
+[![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
+
 * <span style="color: #0077cc">[Optimization, VRP]</span> **Learning to Solve Complex Constrained Routing Problems with Feasibility-Guided Reward and Diversity-Guided Policy** \
 Yuanxu Yang, Jiahai Wang, <u>Jieyi Bi</u>, Jinbiao Chen, Zikang Yu, Zizhen Zhang \
 *The International Conference on Parallel Problem Solving From Nature* (**PPSN**), 2026.  
@@ -70,6 +75,8 @@ Yuanxu Yang, Jiahai Wang, <u>Jieyi Bi</u>, Jinbiao Chen, Zikang Yu, Zizhen Zhang
 
 
 ## Under Review
+
+
 * <span style="color: #0077cc">[Optimization, VRP]</span> **Double-Blind** \
    Dat Thanh Tran, Van Khu Vu, <u>Jieyi Bi</u>† and Yining Ma\
    [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()

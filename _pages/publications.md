@@ -30,7 +30,6 @@ Yuanxu Yang, Jiahai Wang, <u>Jieyi Bi</u>, Jinbiao Chen, Zikang Yu, Zizhen Zhang
   *Findings of the Association for Computational Linguistics* (**ACL Findings**), 2026.  
   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2507.10917)
 
-
 * <span style="color: #0077cc">[Optimization, VRP]</span> **Towards Efficient Constraint Handling in Neural Solvers for Routing Problems** \
 <u>Jieyi Bi</u>, Zhiguang Cao, Jianan Zhou, Wen Song, Yaoxin Wu, Jie Zhang, Yining Ma, Cathy Wu \
   *International Conference on Learning Representations* (**ICLR**), 2026.  
@@ -62,7 +61,7 @@ Yuanxu Yang, Jiahai Wang, <u>Jieyi Bi</u>, Jinbiao Chen, Zikang Yu, Zizhen Zhang
 *Advances in Neural Information Processing Systems* (**NeurIPS**), 2024.\
 [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2410.21066)&nbsp;&nbsp;&nbsp;&nbsp;
 [![Code](https://img.shields.io/badge/GitHub-Code-blue.svg)](https://github.com/jieyibi/PIP-constraint)&nbsp;&nbsp;&nbsp;&nbsp;
-[![Poster](https://img.shields.io/badge/NeurIPS-Poster-yellow.svg)](https://neurips.cc/virtual/2024/poster/95638)
+[![Poster](https://img.shields.io/badge/NeurIPS-Poster-violet.svg)](https://neurips.cc/virtual/2024/poster/95638)
 
 
 - <span style="color: #0077cc">[Optimization, VRP]</span> **Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation**,   
@@ -70,7 +69,7 @@ Yuanxu Yang, Jiahai Wang, <u>Jieyi Bi</u>, Jinbiao Chen, Zikang Yu, Zizhen Zhang
 *Advances in Neural Information Processing Systems* (**NeurIPS**), 2022.  
    [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2210.07686)&nbsp;&nbsp;&nbsp;&nbsp;
   [![Code](https://img.shields.io/badge/GitHub-Code-blue.svg)](https://github.com/jieyibi/AMDKD)&nbsp;&nbsp;&nbsp;&nbsp;
-  [![Poster](https://img.shields.io/badge/NeurIPS-Poster-yellow.svg)](https://neurips.cc/virtual/2022/poster/53726)&nbsp;&nbsp;&nbsp;&nbsp;
+  [![Poster](https://img.shields.io/badge/NeurIPS-Poster-violet.svg)](https://neurips.cc/virtual/2022/poster/53726)&nbsp;&nbsp;&nbsp;&nbsp;
   [![Spotlight](https://img.shields.io/badge/NeurIPS-Spotlight-red.svg)](https://nips.cc/virtual/2022/spotlight/65189)
 
 

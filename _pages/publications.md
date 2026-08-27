@@ -18,7 +18,7 @@ author_profile: true
 * <span style="color: #0077cc">[Optimization]</span> **FormuEvo: LLM-Guided Evolution for Discovering Solver-Efficient Mixed-Integer Programming Formulations** \
 Haofeng Yuan, Jianing Peng, <u>Jieyi Bi</u>, Ni Zhang, Shiji Song, Zhiguang Cao \
 *The Conference on Empirical Methods in Natural Language Processing* (**EMNLP**), 2026.  
-[![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
+[![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2608.23353)
 
 * <span style="color: #0077cc">[Optimization, VRP]</span> **Learning to Solve Complex Constrained Routing Problems with Feasibility-Guided Reward and Diversity-Guided Policy** \
 Yuanxu Yang, Jiahai Wang, <u>Jieyi Bi</u>, Jinbiao Chen, Zikang Yu, Zizhen Zhang \
@@ -74,6 +74,10 @@ Yuanxu Yang, Jiahai Wang, <u>Jieyi Bi</u>, Jinbiao Chen, Zikang Yu, Zizhen Zhang
 
 
 ## Under Review
+
+* <span style="color: #0077cc">[Optimization, VRP]</span> **PLAN: Parallel Liquid-Inspired Approximation Network for Efficient Representation Learning in Flexible Job Shop Scheduling** \
+   Dhivya Dharshini Kannan, Wei Zhang, <u>Jieyi Bi</u>, Yingpeng Du, Tianjun Wei, Jie Zhang, Zuming Liu and Anupam Trivedi\
+   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2608.03041)
 
 
 * <span style="color: #0077cc">[Optimization, VRP]</span> **Double-Blind** \

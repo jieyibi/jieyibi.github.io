@@ -8,10 +8,10 @@ author_profile: true
 ## Academic Service
 
 * **Conference Reviewer**:
-  * Conference on Neural Information Processing Systems (NeurIPS): 2024, 2025 
+  * Conference on Neural Information Processing Systems (NeurIPS): 2024, 2025, 2026 
   * International Conference on Machine Learning (ICML): 2024, 2025, 2026 
-  * International Conference on Learning Representations (ICLR): 2025, 2026  
-  * AAAI Conference on Artificial Intelligence (AAAI): 2025, 2026  
+  * International Conference on Learning Representations (ICLR): 2025, 2026, 2027  
+  * AAAI Conference on Artificial Intelligence (AAAI): 2025, 2026, 2027  
   * International Joint Conference on Artificial Intelligence (IJCAI): 2025  
   * ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD): 2025, 2026  
   * International Conference on Artificial Intelligence and Statistics (AISTATS): 2025, 2026  

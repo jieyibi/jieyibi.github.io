@@ -15,7 +15,7 @@ author_profile: true
 ## Published
  \* Equal Contribution; † Corresponding Author.
 
-* <span style="color: #0077cc">[Optimization, VRP]</span> **Interpreting Neural Combinatorial Optimization via Evolving Programmatic Bottlenecks** \
+* <span style="color: #0077cc">[VRP, Interpretability, LLM]</span> **Interpreting Neural Combinatorial Optimization via Evolving Programmatic Bottlenecks** \
    Haocheng Duan, Yuxin Guo, <u>Jieyi Bi</u>, Anqi Xie, Sirui Li, Yining Ma, Cathy Wu \
   *Advances in Neural Information Processing Systems* (**NeurIPS**), 2026.\
    [![PDF](https://img.shields.io/badge/NeurIPS-Poster-violet.svg)](https://arxiv.org/pdf/2606.19741)

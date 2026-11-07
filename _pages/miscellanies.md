@@ -13,25 +13,32 @@ author_profile: true
   * International Conference on Learning Representations (ICLR): 2025, 2026, 2027  
   * AAAI Conference on Artificial Intelligence (AAAI): 2025, 2026, 2027  
   * International Joint Conference on Artificial Intelligence (IJCAI): 2025  
-  * ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD): 2025, 2026  
-  * International Conference on Artificial Intelligence and Statistics (AISTATS): 2025, 2026  
+  * ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD): 2025, 2026
+  * Association for Computational Linguistics (ACL): 2026
+  * International Conference on Artificial Intelligence and Statistics (AISTATS): 2025, 2026, 2027  
   * International Joint Conference on Neural Networks (IJCNN): 2025  
   * Reinforcement Learning Conference (RLC), 2025  
   * European Conference on Artificial Intelligence (ECAI): [2025](https://ecai2025.org/program-committee/)  
   * Northern Lights Deep Learning Conference (NLDL): 2026  
 * **Journal Reviewer**:
+
   * Transportation Research Part C (TR-C)  
   * Computers and Operations Research (CAOR) 
   * Transportation Research Part E (TR-E)  
   * Transactions on Industrial Informatics (TII)  
-  * Transactions on Machine Learning Research (TMLR)  
+  * Transactions on Machine Learning Research (TMLR)
+  * Reinforcement Learning Journal (RLJ)
   * Neural Networks
   * Complex System Modeling and Simulation
   * Annals of Mathematics and Artificial Intelligence
+  * Chinese Journal of Electronics (CJE)
 * **Student Volunteer**:
   * The 20th Workshop for Women in Machine Learning (WiML) @ NeurIPS: 2025 @ San Diego
   * ACM Conference on Recommender Systems (RecSys): 2023 @ Singapore  
 
+## Fundings
+- **Lambda Research Grant**, Funded by Lambda.AI, 5.5k USD (API credits) \
+Role: PI, Proposal Writer, Supervisor of 3 students
 
 ## Honors and Awards
 - **NeurIPS 2025 Top Reviewer Award (Top 10%)**  
@@ -69,16 +76,22 @@ Ministry of Education, AY2018-2019, AY2017-2018
   
   Under Projects:
   - Trustworthy Human-AI Combinatorial Optimization with Language Feedback, AISG (Fundamental Collaborative Research), Collaboration with MIT, Nov 2025 - Present
-  - Learning Assisted Human-AI Collaboration for Combinatorial Optimization, AISG, May 2024 - Present  
+  - Learning-Assisted Human-AI Collaboration for Combinatorial Optimization, AISG, May 2024 - Present  
   - Prescriptive Analytics with DRL-Enabled Model, AISG 100E4R, May 2024 - Nov 2025
   - Research and Application of Deep Reinforcement Learning in Retail Logistics Supply Chain Optimization, S-Lab, Aug 2023 - May 2024
- 
+
 ## Teaching (TA)
 
-AY2021-2022 Sem2:
+AY2026-2027 Fall:
+* Programming Data Analysis with Python (MH6810) (postgraduate), Nanyang Technological University
+
+AY2026-2027 Fall:
+* Essential Machine Learning for Biomedical Science (BS6200) (undergraduate), Nanyang Technological University
+
+AY2021-2022 Spring:
 * Artificial Intelligence (undergraduate), Sun Yat-sen University
   
-AY2021-2022 Sem1:
+AY2021-2022 Fall:
 * Artificial Intelligence (undergraduate), Sun Yat-sen University
 
   

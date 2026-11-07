@@ -15,15 +15,25 @@ author_profile: true
 ## Published
  \* Equal Contribution; † Corresponding Author.
 
+* <span style="color: #0077cc">[Optimization, VRP]</span> **Interpreting Neural Combinatorial Optimization via Evolving Programmatic Bottlenecks** \
+   Haocheng Duan, Yuxin Guo, <u>Jieyi Bi</u>, Anqi Xie, Sirui Li, Yining Ma, Cathy Wu \
+  *Advances in Neural Information Processing Systems* (**NeurIPS**), 2026.\
+   [![PDF](https://img.shields.io/badge/NeurIPS-Poster-violet.svg)](https://arxiv.org/pdf/2606.19741)
+  
+* <span style="color: #0077cc">[Robust Optimization]</span> **Learning Scenario Reduction for Two-Stage Robust Optimization with Discrete Uncertainty** \
+   Tianjue Lin, Jianan Zhou, <u>Jieyi Bi</u>, Yaoxin Wu, Wen Song, Zhiguang Cao, Jie Zhang \
+  *Advances in Neural Information Processing Systems* (**NeurIPS**), 2026.\
+   [![PDF](https://img.shields.io/badge/NeurIPS-Poster-violet.svg)](https://arxiv.org/pdf/2605.14494)
+  
 * <span style="color: #0077cc">[Optimization]</span> **FormuEvo: LLM-Guided Evolution for Discovering Solver-Efficient Mixed-Integer Programming Formulations** \
 Haofeng Yuan, Jianing Peng, <u>Jieyi Bi</u>, Ni Zhang, Shiji Song, Zhiguang Cao \
 *The Conference on Empirical Methods in Natural Language Processing* (**EMNLP**), 2026.  
-[![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2608.23353)
+[![PDF](https://img.shields.io/badge/EMNLP-PDF-brightgreen.svg)](https://arxiv.org/pdf/2608.23353)
 
 * <span style="color: #0077cc">[Optimization, VRP]</span> **Learning to Solve Complex Constrained Routing Problems with Feasibility-Guided Reward and Diversity-Guided Policy** \
 Yuanxu Yang, Jiahai Wang, <u>Jieyi Bi</u>, Jinbiao Chen, Zikang Yu, Zizhen Zhang \
 *The International Conference on Parallel Problem Solving From Nature* (**PPSN**), 2026.  
-[![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
+[![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://link.springer.com/chapter/10.1007/978-3-032-36214-8_24)
 
 * <span style="color: #0077cc">[LLM, Recommendation, Optimization]</span> **Adaptive and Representative Multi-Interest Modeling for Recommendation with Large Language Model** \
     Ziyan Wang, Yingpeng Du, Zhu Sun, <u>Jieyi Bi</u>, Haoyan Chua, Tianjun Wei, Jie Zhang \
@@ -75,31 +85,41 @@ Yuanxu Yang, Jiahai Wang, <u>Jieyi Bi</u>, Jinbiao Chen, Zikang Yu, Zizhen Zhang
 
 ## Under Review
 
+* <span style="color: #0077cc">[MILP, Feasibility]</span> **Double-Blind** \
+   <u>Jieyi Bi</u>, Yining Ma, Yaoxin Wu, Jie Zhang, Cathy Wu. \
+   [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
+
+* <span style="color: #0077cc">[Robotics, Feasibility]</span> **Double-Blind** \
+   Hasan Taha Bagci, <u>Jieyi Bi</u>†, Fatma Elif Yalcindag, Xiang Zhou, Emre Koyuncu, Zhiguang Cao \
+   [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
+
+* <span style="color: #0077cc">[Optimization, LLM]</span> **Double-Blind** \
+   Hung Phan, <u>Jieyi Bi</u>†, Hoang Ta, Zhuoyi Lin, Yining Ma \
+   [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
+
+* <span style="color: #0077cc">[Optimization, VRP]</span> **Double-Blind** \
+   Dat Thanh Tran, Yining Ma, <u>Jieyi Bi</u>†, Van Khu Vu, Jingyi Zhao \
+   [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
+
+* <span style="color: #0077cc">[MILP]</span> **Double-Blind** \
+Trinh The Minh, Haofeng Yuan, Hung Phan, <u>Jieyi Bi</u>, Dusit Niyato, Zhiguang Cao \
+ [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
+
 * <span style="color: #0077cc">[Optimization, VRP]</span> **PLAN: Parallel Liquid-Inspired Approximation Network for Efficient Representation Learning in Flexible Job Shop Scheduling** \
    Dhivya Dharshini Kannan, Wei Zhang, <u>Jieyi Bi</u>, Yingpeng Du, Tianjun Wei, Jie Zhang, Zuming Liu and Anupam Trivedi\
    [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2608.03041)
-
 
 * <span style="color: #0077cc">[Optimization, VRP]</span> **Double-Blind** \
    Dat Thanh Tran, Van Khu Vu, <u>Jieyi Bi</u>† and Yining Ma\
    [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
 
-
 * <span style="color: #0077cc">[Optimization, VRP]</span> **Double-Blind** \
    <u>Jieyi Bi</u>, Yining Ma, Tianyue Zhou, Piotr Sielski, Akif Çördük, Zhiguang Cao, Jie Zhang, Burcin Bozkaya, Cathy Wu \
    [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
   
-* <span style="color: #0077cc">[Optimization, VRP]</span> **Interpreting Neural Combinatorial Optimization via Evolving Programmatic Bottlenecks** \
-   Haocheng Duan, Yuxin Guo, <u>Jieyi Bi</u>, Anqi Xie, Sirui Li, Yining Ma, Cathy Wu \
-   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2606.19741)
-  
 * <span style="color: #0077cc">[Agentic AI, LLM]</span> **ToolAnchor: Anchoring Counterfactual Context to Boost Agentic Tool-use Capability** \
    Weiting Liu, <u>Jieyi Bi</u>, Wanqi Zhou, Jianfeng Feng, Yining Ma, Ai Han, Wenlian Lu \
    [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2607.14145)
-  
-* <span style="color: #0077cc">[Robust Optimization]</span> **Learning Scenario Reduction for Two-Stage Robust Optimization with Discrete Uncertainty** \
-   Tianjue Lin, Jianan Zhou, <u>Jieyi Bi</u>, Yaoxin Wu, Wen Song, Zhiguang Cao, Jie Zhang \
-   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2605.14494)
   
 * <span style="color: #0077cc">[Optimization, VRP]</span> **Double-Blind** \
    Jiayuan Ding\*, <u>Jieyi Bi</u>\*, Yining Ma, Zhiguang Cao, Yue-Jiao Gong \

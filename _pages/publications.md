@@ -15,6 +15,12 @@ author_profile: true
 ## Published
  \* Equal Contribution; † Corresponding Author.
 
+* <span style="color: #0077cc">[Optimization, VRP]</span> **Towards Foundation Search Models for Routing Problems: A Constraint-Handling Perspective** \
+   Jiayuan Ding\*, <u>Jieyi Bi</u>\*, Yining Ma, Zhiguang Cao, Yue-Jiao Gong \
+  *ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (**KDD**), 2027. \
+   [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;
+  [![KDD](https://img.shields.io/badge/KDD-Poster-violet.svg)]()
+
 * <span style="color: #0077cc">[VRP, Interpretability, LLM]</span> **Interpreting Neural Combinatorial Optimization via Evolving Programmatic Bottlenecks** \
    Haocheng Duan, Yuxin Guo, <u>Jieyi Bi</u>, Anqi Xie, Sirui Li, Yining Ma, Cathy Wu \
   *Advances in Neural Information Processing Systems* (**NeurIPS**), 2026.\
@@ -120,10 +126,6 @@ Trinh The Minh, Haofeng Yuan, Hung Phan, <u>Jieyi Bi</u>, Dusit Niyato, Zhiguang
 * <span style="color: #0077cc">[Agentic AI, LLM]</span> **ToolAnchor: Anchoring Counterfactual Context to Boost Agentic Tool-use Capability** \
    Weiting Liu, <u>Jieyi Bi</u>, Wanqi Zhou, Jianfeng Feng, Yining Ma, Ai Han, Wenlian Lu \
    [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2607.14145)
-  
-* <span style="color: #0077cc">[Optimization, VRP]</span> **Double-Blind** \
-   Jiayuan Ding\*, <u>Jieyi Bi</u>\*, Yining Ma, Zhiguang Cao, Yue-Jiao Gong \
-   [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
 
 * <span style="color: #0077cc">[VRP]</span> **Double-Blind** \
    Weiting Liu, <u>Jieyi Bi</u>, Jianfeng Feng, Yining Ma \

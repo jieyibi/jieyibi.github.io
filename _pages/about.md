@@ -24,6 +24,7 @@ My research focuses on **AI for Optimization**, specifically developing autonomo
 
 News
 ======
+* [2026.11] One paper was accepted by KDD 2027: [Towards Foundation Search Models for Routing Problems: A Constraint-Handling Perspective]()!
 * [2026.09] Two papers were accepted by NeurIPS 2026: 1) [Interpreting Neural Combinatorial Optimization via Evolving Programmatic Bottlenecks](https://arxiv.org/abs/2606.19741), and 2) [Learning Scenario Reduction for Two-Stage Robust Optimization with Discrete Uncertainty](https://arxiv.org/pdf/2605.14494)! Welcome to chat with me in Sydney!
 * [2026.08] One paper was accepted by EMNLP 2026: [FormuEvo: LLM-Guided Evolution for Discovering Solver-Efficient Mixed-Integer
 Programming Formulations](https://aclanthology.org/2026.emnlp-main.221.pdf)!
